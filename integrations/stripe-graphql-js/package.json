@@ -42,7 +42,7 @@
   "dependencies": {
     "@graphql-yoga/node": "^2.13.13",
     "@pothos/core": "^3.21.0",
-    "graphql": "16.6.0",
+    "graphql": "16.8.1",
     "graphql-scalars": "^1.18.0",
     "jsonwebtoken": "^8.5.1",
     "stripe": "^10.10.0"
